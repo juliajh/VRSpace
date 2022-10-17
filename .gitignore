@@ -76,3 +76,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 ProjectSettings.asset
+
+Assets/SolorSystem/Textures/TIFF/EarthNormal.tif
+Assets/SolorSystem/Textures/TIFF/Mars8K_N.tif
